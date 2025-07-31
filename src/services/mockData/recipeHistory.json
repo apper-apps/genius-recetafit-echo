@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "titulo": "Smoothie Verde Energizante",
+    "tipoReceta": "bebida-fria",
+    "saborPreferido": "mango",
+    "incluyeHerbalife": true,
+    "userInfo": {
+      "nombre": "María González",
+      "contacto": "maria@email.com"
+    },
+    "ingredientes": "espinaca, mango, plátano, agua de coco",
+    "restricciones": "sin lácteos",
+    "receta_generada": "**Smoothie Verde Energizante**\n\nIngredientes:\n- 1 taza de espinaca fresca\n- 1/2 mango maduro\n- 1 plátano\n- 1 taza de agua de coco\n- 1 scoop de Fórmula 1 sabor mango\n\nInstrucciones:\n1. Lava bien las espinacas\n2. Pela y corta el mango y plátano\n3. Agrega todos los ingredientes a la licuadora\n4. Licua por 60 segundos hasta obtener consistencia cremosa\n5. Sirve inmediatamente\n\nTip Nutricional: Esta receta aporta vitaminas A, C y K, además de fibra y potasio.\n\n¡Recuerda que pequeños cambios generan grandes transformaciones!",
+    "timestamp": "2024-01-15T08:30:00Z"
+  },
+  {
+    "Id": 2,
+    "titulo": "Bowl de Avena Proteico",
+    "tipoReceta": "desayuno",
+    "saborPreferido": "chocolate",
+    "incluyeHerbalife": false,
+    "userInfo": {
+      "nombre": "Carlos Ruiz",
+      "contacto": "+52 555 123 4567"
+    },
+    "ingredientes": "avena, plátano, nueces, cacao",
+    "restricciones": "sin azúcar refinada",
+    "receta_generada": "**Bowl de Avena Proteico**\n\nIngredientes:\n- 1/2 taza de avena\n- 1 plátano maduro\n- 2 cdas de nueces picadas\n- 1 cda de cacao en polvo\n- 1 taza de leche de almendras\n\nInstrucciones:\n1. Cocina la avena con leche de almendras a fuego medio\n2. Machaca medio plátano y mézcla con la avena\n3. Sirve en un bowl\n4. Decora con rodajas de plátano, nueces y cacao\n5. Disfruta caliente\n\nTip Nutricional: La avena proporciona fibra soluble que ayuda a controlar el colesterol.\n\n¡Recuerda que pequeños cambios generan grandes transformaciones!",
+    "timestamp": "2024-01-14T07:15:00Z"
+  },
+  {
+    "Id": 3,
+    "titulo": "Té Herbal Digestivo",
+    "tipoReceta": "bebida-caliente",
+    "saborPreferido": "otro",
+    "incluyeHerbalife": true,
+    "userInfo": {
+      "nombre": "Ana Patricia",
+      "contacto": "ana.patricia@gmail.com"
+    },
+    "ingredientes": "jengibre, limón, miel",
+    "restricciones": "ninguna",
+    "receta_generada": "**Té Herbal Digestivo**\n\nIngredientes:\n- 1 trozo de jengibre fresco (2cm)\n- Jugo de 1/2 limón\n- 1 cda de miel\n- 1 taza de agua caliente\n- 1 sobre de Té Herbalife\n\nInstrucciones:\n1. Hierve el agua con el jengibre por 5 minutos\n2. Retira del fuego y agrega el té Herbalife\n3. Deja reposar 3 minutos\n4. Cuela y agrega el jugo de limón\n5. Endulza con miel al gusto\n\nTip Nutricional: El jengibre ayuda a la digestión y tiene propiedades antiinflamatorias.\n\n¡Recuerda que pequeños cambios generan grandes transformaciones!",
+    "timestamp": "2024-01-13T16:45:00Z"
+  }
+]
