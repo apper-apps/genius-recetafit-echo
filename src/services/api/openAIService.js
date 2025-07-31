@@ -1,5 +1,9 @@
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "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";
+const API_KEY = import.meta.env.VITE_OPENAI_API_KEY;
+
+if (!API_KEY) {
+  console.error('OpenAI API key not found. Please add VITE_OPENAI_API_KEY to your .env file');
+}
 
 const openAIService = {
   async generateRecipe(formData) {
